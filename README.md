@@ -46,8 +46,8 @@ As of now, my followed methodology to solve this exercise is:
 
 
 Output console will give results as follows:-
- 1)Please enter ground station bandwidth : // takes valid user input - (validation logic added). 
- 2)Time at which total downlink will be at its maximum is: 
- 3)Ground station provided bandwidth: //input bandwidth argument provided by user for ground station.  
- 4)Total bandwidth required :  
- 5)Ground station has the bandwidth to support this: NO/YES //determine if ground station has the bandwidth to support it
+1)Please enter ground station bandwidth : // takes valid user input - (validation logic added). 
+2)Time at which total downlink will be at its maximum is: 
+3)Ground station provided bandwidth: //input bandwidth argument provided by user for ground station.
+4)Total bandwidth required :
+5)Ground station has the bandwidth to support this: NO/YES //determines if ground station has the bandwidth to support it
